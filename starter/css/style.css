@@ -1,6 +1,8 @@
-.bacround{
-    background-color: bisque;
-}
+
 .bg{
-    background-color: aqua;
+    background-color: rgb(8, 92, 92);
+}
+
+.head{
+    color: rgb(169, 51, 51);
 }
